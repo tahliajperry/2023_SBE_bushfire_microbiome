@@ -1,0 +1,15 @@
+sample-id	date-collected	Latitude	Longitude	fire-area	material-type	fire-category	fire-time	sex	season	breeding-season
+171002SA1	2017-10-02	-35.6	137.58	N	scat	a - before fire	a - before	unknown	spring	no
+171002SA2	2017-10-02	-35.6	137.58	N	scat	a - before fire	a - before	unknown	spring	no
+171008SA4	2017-10-08	-35.74	137.64	N	scat	a - before fire	a - before	unknown	spring	no
+171205SA1	2017-12-05	-35.74	137.64	N	scat	a - before fire	a - before	unknown	summer	no
+180914SA1	2018-09-14	-35.74	137.64	N	scat	a - before fire	a - before	unknown	spring	no
+191015SA1	2019-10-15	-35.5987	137.5817	N	scat	a - before fire	a - before	unknown	spring	no
+200125SA1	2020-01-25	-35.79	137.04	Y	scat	b - after fire - fire area	b - after	unknown	summer	no
+200423SA1	2020-04-23	-35.81624	137.561121	N	scat in intestine	c - after fire - nonfire area	b - after	male	autumn	no
+200508SA1	2020-05-08	-35.809432	137.79182	N	scat	c - after fire - nonfire area	b - after	unknown	autumn	no
+200707SA1	2020-07-07	-35.781301	137.538729	N	scat in intestine	c - after fire - nonfire area	b - after	male	winter	yes
+200707SA3	2020-07-07	-35.781301	137.538729	N	scat in intestine	c - after fire - nonfire area	b - after	male	winter	yes
+200805SA1	2020-08-05	-35.773345	137.487198	N	scat in intestine	c - after fire - nonfire area	b - after	male	winter	no
+200814SA1	2020-08-14	-35.986686	137.038961	Y	scat in intestine	b - after fire - fire area	b - after	male	winter	no
+										
